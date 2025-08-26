@@ -1,5 +1,5 @@
 // @flow strict
-
+"use client";
 import { skillsData } from "@/utils/data/skills";
 import { skillsImage } from "@/utils/skill-image";
 import Image from "next/image";
