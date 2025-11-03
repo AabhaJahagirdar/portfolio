@@ -31,8 +31,8 @@ export const projectsData = [
         name: 'AI IPL Score Predictor',
         description: "Developed an AI-based model to predict the first innings score in IPL matches using linear regression. Analyzes historical match data and key factors to provide accurate score predictions, assisting strategic decision-making in cricket analytics.",
         tools: ['Python', 'Pandas', 'NumPy', 'Scikit-learn', 'Matplotlib', 'Seaborn', 'Jupyter Notebook', 'Linear Regression'],
-        code: '',
-        demo: '',
+        code: 'https://github.com/AabhaJahagirdar/IPLFirstInningScorePrediction/',
+        demo: 'https://ipl-first-inning-score-prediction.vercel.app/',
         role: 'Full Stack Developer',
     },
      {
