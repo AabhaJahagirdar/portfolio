@@ -5,7 +5,7 @@ export const projectsData = [
         description: "Agribot is an autonomous agricultural robot designed to simplify farming tasks. Using Arduino and multiple sensors, it can monitor soil conditions, navigate fields, and perform precise operations like watering and crop care, making farming smarter and more efficient.",
         tools: ['Arduino Uno', 'Motor Driver (L298N)', 'DC Motors', 'Servo Motor', 'Ultrasonic Sensor', 'Soil Moisture Sensor', 'Relay Module', 'Water Pump Module', 'Arduino IDE', 'C/C++', 'Proteus/Tinkercad', 'Li-ion/Lead Acid Battery', 'Bluetooth Module (HC-05)', 'WiFi Module (ESP8266)'],
         role: 'Full Robot Development',
-        code: '',
+        code: 'https://github.com/AabhaJahagirdar/AgriBot/',
         demo: '',
     },
     {
@@ -14,7 +14,7 @@ export const projectsData = [
         description: 'A full-stack Tours & Travels platform that helps users discover, explore, and book destinations seamlessly. Features interactive listings, real-time search, and a user-friendly interface for a complete travel planning experience.',
         tools: ['HTML5', 'CSS3', 'JavaScript', 'REST APIs', 'Git', 'GitHub', 'Bootstrap/Tailwind CSS', 'VS Code'],
         role: 'Full Stack Developer',
-        code: '',
+        code: 'https://github.com/AabhaJahagirdar/ToursTravels/',
         demo: '',
     },
     {
@@ -22,7 +22,7 @@ export const projectsData = [
         name: 'Quadcopter Drone flight controller',
         description: 'My team built an AI-based real estate app using Replicate API and OpenAI. We used Express, Typescript, OpenAI, Replicate, Stripe, and Mongoose to develop the API. We utilized NextJS, Formik, TailwindCSS, and other npm libraries for the UI. We have trained multiple AI assistants using the latest GPT model and integrated Replicate API for image processing. We added role-based auth, subscription plans, Cron job scheduling, and payment integration with Stripe.',
         tools: ['Arduino Uno', 'MPU6050 (Gyroscope & Accelerometer)', 'ESCs (Electronic Speed Controllers)', 'Brushless DC Motors', 'Propellers', 'Li-Po Battery', 'RC Transmitter & Receiver', 'Arduino IDE', 'C/C++'],
-        code: '',
+        code: 'https://github.com/AabhaJahagirdar/Quadcopter_Drone/',
         role: 'Developer',
         demo: '',
     },
@@ -48,10 +48,30 @@ export const projectsData = [
     'HTML',
     'CSS',
     'Netlify'],
-        code: '',
-        demo: '',
+        code: 'https://github.com/AabhaJahagirdar/portfolio/',
+        demo: 'https://resplendent-gingersnap-ef83f5.netlify.app/',
         role: 'Frontend Developer',
-    }
+    },
+    {
+  id: 6,
+  name: 'Rust NLP Engine',
+  description:
+    "Developed a Natural Language Processing engine using Rust to perform efficient text preprocessing, tokenization, and sentiment analysis. Focused on optimizing performance and memory safety while experimenting with custom vectorization techniques for faster linguistic computations. The project demonstrates the integration of AI concepts in a systems-level programming environment.",
+  tools: [
+    'Rust',
+    'Natural Language Processing',
+    'Tokenization',
+    'Sentiment Analysis',
+    'Cargo',
+    'Serde',
+    'Regex',
+    'Machine Learning Concepts'
+  ],
+  code: '',
+  demo: '', 
+  role: 'Machine Learning Developer',
+}
+
 ];
 
 
