@@ -34,6 +34,23 @@ export const projectsData = [
         code: '',
         demo: '',
         role: 'Full Stack Developer',
+    },
+     {
+        id: 5,
+        name: 'Personal Portfolio Website',
+        description: "Designed and developed a responsive personal portfolio website using Next.js and Tailwind CSS to showcase my projects, skills, and experience. Integrated smooth animations, Lottie effects, and contact functionalities for a professional and engaging user experience. Deployed successfully on Netlify.",
+        tools: ['Next.js',
+    'React',
+    'Tailwind CSS',
+    'Framer Motion',
+    'Lottie',
+    'JavaScript',
+    'HTML',
+    'CSS',
+    'Netlify'],
+        code: '',
+        demo: '',
+        role: 'Frontend Developer',
     }
 ];
 
