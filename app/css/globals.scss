@@ -1,10 +1,7 @@
-// @tailwind base;
-// @tailwind components;
-// @tailwind utilities;
 @import "tailwindcss";
 
 :root {
-  --foreground-rgb: rgb(211, 216, 232);
+  --foreground-rgb: 211, 216, 232;
 }
 
 @media (prefers-color-scheme: dark) {
@@ -35,6 +32,5 @@ body {
 }
 
 .sticky-card {
-  // padding-top: calc(var(--index) * 2.5rem);
   top: calc(var(--index) * 4rem);
 }
