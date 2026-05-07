@@ -1,15 +1,15 @@
 export const experiences = [
   {
     id: 1,
-    title: 'Software Intern - Java Fullstack and DSA',
-    company: "TechnoWings International IT Solution",
-    duration: "(Jun 2025 - Aug 2025)"
+    title: 'Software Engineering Intern - PHP and Python Development',
+    company: "TrueLogic India",
+    duration: "(Apr 2026 - Jun 2026)"
   },
   {
     id: 2,
-    title: 'Software Intern - Data Science and AIML',
-    company: "Ybi Foundation",
-    duration: "(Jun 2024 - Jul 2024)"
+    title: 'Software Intern - Java Fullstack and DSA',
+    company: "TechnoWings International IT Solution",
+    duration: "(Jun 2025 - Aug 2025)"
   },
   {
     id: 3,
