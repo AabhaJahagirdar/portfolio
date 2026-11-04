@@ -10,11 +10,7 @@
 // import "./css/globals.scss";
 // const inter = Inter({ subsets: ["latin"] });
 
-// export const metadata = {
-//   title: "Portfolio of Aabha Jahagirdar",
-//   description:
-//     "This is the portfolio of Aabha Jahagirdar. I am a student and a tech enthusiast. I love to learn new things and I am always open to collaborating with others. I am a quick learner and I am always looking for new challenges.",
-// };
+
 
 // export default function RootLayout({ children }) {
 //   return (
